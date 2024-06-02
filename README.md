@@ -2,6 +2,8 @@
 
 A Streamlit application for calculating retirement savings. This application allows users to input their current age, retirement age, current savings, annual savings, estimated annual return, and target savings to calculate their estimated savings at retirement age, any shortfall or overage, suggestions for adjusting annual savings, and progress towards the target savings.
 
+![Screenshot of the Retirement Calculator](screenshot.png)
+
 ## Features
 
 - Input fields for current age, retirement age, current savings, annual savings, estimated annual return, and target savings.
